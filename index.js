@@ -1,6 +1,6 @@
 const https = require("https");
 
-const URL = "https://yourdomain.com/api/run-task.php";
+const URL = "https://uzhlavarsandhai.com/api/_magic/cron_job.php";
 
 function callAPI() {
   https.get(URL, (res) => {
